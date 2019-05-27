@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>
-    <div class="header2">
-        <div class="header3">
+    <div class="header2" style="height: 1000px">
+        <div class="header3" >
             <p id="SmallText"> About </p>
             <pre style="position: relative; font-size: 20px; color: rgb(80, 55, 55);" >
     We offer the clients the complex 
